@@ -1,0 +1,49 @@
+reference,date,type,sex,age,name,origin,ethnicity,colour,seller/owner,buyer,price,currency
+2,1360-08-29,manumission,male,,Dimitrius Argomatari,,Greek,,Franceschinus Miolo of Venice,,,
+37,1360-11-05,sale,male,,Herini,,Greek,,Bartolomeus Villanucius of Genoa,Marcus Morosinus of Venice,160,Cypriot white bezants
+39,1360-11-27,sale,female,,Maria,,Bulgarian,,"Nicola Dondi of Genoa, from Rhodes, now at Famagusta",Nicolaus Barbadicus of Venice bailo,175,Cypriot white bezants
+47,1361-02-06,sale,female,,Anna,,de Romania,,Antonius Babin of Venice resident in Famagusta,Marcus Morosinus of Venice merchant in Famagusta,120,Cypriot white bezants
+48,1361-02-09,manumission + redemption,male,,Georgius Gisi,,Greek,,Cosmas de Zibelleto of Genoa from Famagusta,,140,Cypriot white bezants
+50,1361-02-18,sale,male,12,Andreas,,Greek,,Mussoit quondam Abraym of Famagusta,Bartholomeus Cassellerius of Venice resident in Famagusta,95,Cypriot white bezants
+53,1361-02-24,testamentary manumission,male,,Nicola de Nigroponte,Negroponte,Greek,,"Iacobus de Bochasiis de Ferrara, a Venetian, resident in Famagusta",,,
+54+157,1361-02-24,testamentary manumission,male,,Geogius de Xagora,,Greek,,"Iacobus de Bochasiis de Ferrara, a Venetian, resident in Famagusta",,,
+52,1361-03-09,manumission,male,,Nicola,,Greek,,"Guillelmus Casellarius of Venice, resident in Famagusta",,,
+56,1361-03-17,sale,female,,Cali del Vixo,,Greek,,Abraim de la Lica resident in Famagusta,"Canino Barbadicus of Venice, in Famagusta",152,Cypriot white bezants
+60,1361-03-30,manumission + redemption,male,,Nicola Cutica,,Greek,,Dimitrius Cutica di Nigroponte,,140,Cypriot white bezants
+66,1361-04-15,sale,male,,Nicola,,Greek,,Ansaldus Spinolla of Genoa resident of Famagusta,"Bartolomeus de Garopellis of Venice, resident in Famagusta",150,Cypriot white bezants
+68,1361-04-20,sale,female,,Maruca,,de Romania,,Conradus Pravesinus of Genoa merchant in Famagusta,Andrea Donà of Venice merchant in Famagusta,145,Cypriot white bezants
+73,1361-05-19,sale,female,,Maria,,Vlach ?,,Bernardus Georgio merchant in Famagusta,Marcus Maurocenus of Venice merchant in Famagusta,150,Cypriot white bezants
+74,1361-05-28,sale,female,,Maria,,Bulgarian,,Egidius de Auria of Genoa merchant in Famagusta,Simonetus Micahel of Venice merchant in Famagusta,165,Cypriot white bezants
+75,1361-06-07,manumission,male,,Iohannes Cuconandi,,Greek,,Iulianus de Ser resident in Famagusta,,,
+76,1361-06-19,sale,female,,Anna,,Greek,,Pinus de Solaro di Pina resident of Nicosia,Albanus Cappellus of Venice resident in Famagusta,160,Cypriot white bezants
+77,1361-07-11,manumission + redemption,male,,Dimitrius Protholati,,Greek,,Constantinus de Priore de Fetelei of Cyprus,,160,Cypriot white bezants
+78,1361-07-12,manumission,female,,Cali,,Greek,,Caninus Trivixanus of Venice,,,
+80,1361-07-24,sale,male,,Giorgious Romaniti,,,,Caninus Cuchuol merchant of Famagusta and Nicola Carcuci de Candia,Alexander de Ambrosiis de Pisis physician resident in Famagusta,80,Cypriot white bezants
+81,1361-07-24,sale,male,,Giorgious Romaniti,,,,Alexander de Ambrosiis de Pisis physician resident in Famagusta,Nicholaus Barbadicus,80,Cypriot white bezants
+90,1361-09-10,sale,female,,Maria,,Tatar,,Marcus Galamano de Campofregoso of Genoa,Simeon Giustiniani of Venice,120,Cypriot white bezants
+93,1361-09-04,sale,female,25,Lucia,,Tatar,,Helionus Spinolla of Genoa resident in Famagusta,Benedictus Superancio of Venice,160,Cypriot white bezants
+100,1361-10-05,manumission + redemption,male,,Dimitrius,,Greek,,Iacobus de Belluni physician resident in Famagusta,,100,Cypriot white bezants
+104,1361-10-13,sale,female,,Maria,,de Romania,,Domenicus Martino priest in Famagusta,Maria de Grapelli of Venice resident of Famagusta,111,Cypriot white bezants
+113,1361-10-31,sale,female,,Lucia de Caffa,Caffa,,,Diamante de Peyra resident of Famagusta,Leonardus de Buy of Venice,115,Cypriot white bezants
+122,1361-10-15,sale,female,,Maria,,Greek,,Missauth resident of Famagusta,Paulus Colona of Crete merchant in Famagusta,130,Cypriot white bezants
+123+124,1361-11-15,manumission + redemption,female,,Maria,,Greek,,Paulus Colona of Crete merchant in Famagusta,,130,Cypriot white bezants
+129,1362-01-19,sale,male,15,Aspertus,,Tatar,,Simon de Leone de Crapi resident in Famagusta,Marcus Maurocenus of Venice resident in Famagusta,142,Cypriot white bezants
+145,1362-03-22,sale,female,,Maria,Black Sea,,,Paulus Aimerici of Ancona merchant in Famagusta,Benedictus Superancio of Venice merchant in Famagusta,115,Cypriot white bezants
+148,1362-03-28,sale,female,,Caterina,,Tatar,,Petrus Sibora of Venice for the comerclum of Famagusta,Iohannes Steno procurator of Marinus Barbadico,150,Cypriot white bezants
+149,1362-03-29,sale,female,,Atlbas,,Tatar,,Thomaxinus de Fabriano of Genoa merchant in Famagusta,Thomadus Bon of Venice merchant in Famagusta,150,Cypriot white bezants
+152,1362-04-15,manumission + redemption,male,,Nicola,,Greek,,Lucia de la Cava resident of Famagusta,,300,Cypriot white bezants
+153,1362-04-15,sale,male,24,Micifloch,,Tatar,,Franciscus de Galvano of Venice,"Nasinbene di Cambono of Ferrara, resident of Famagusta",80,Cypriot white bezants
+161,1362-04-28,sale,male,24,Micifloch,,Tatar,,Nasinbenus Canbonis,Nicolaus Brun physician resident of Famagusta,85,Cypriot white bezants
+164,1362-05-23,manumission + redemption,male,,Nicola Gisi,,Greek,,Franciscus Zoiatus of Famagusta,,145,Cypriot white bezants
+165,1362-05-25,manumission,female,,Efdochia,,Greek,,Theodorus de Corono resident in Famagusta,,,
+167,1362-06-23,testamentary manumission,female,,Crusi,,de Romania,,Nicola Coffin of Venice resident in Famagusta,,,
+167,1362-06-23,testamentary manumission,female,,Maria,,de Romania,,Nicola Coffin of Venice resident in Famagusta,,,
+167,1362-06-23,testamentary manumission,female,,Herini,,Greek,,Nicola Coffin of Venice resident in Famagusta,,,
+169,1362-06-26,manumission,male,,Iohannes,,de Romania,,Fetus Simiteculo of Venice resident in Famagusta,,,
+171,1362-07-08,manumission,male,,Dimitrius,,de Romania,,Fetus Simiteculo of Venice resident in Famagusta,,,
+172,1362-07-10,sale,female,,Xoi,,Greek,,Iohannes Lombardus de Seragosa resident in Famagusta,Iacobus Grimani of Venice resident in Crete,130 *,Cypriot white bezants
+172,1362-07-10,sale,male,,"Nicola, son of Xoi",,Greek,,Iohannes Lombardus de Seragosa resident in Famagusta,Iacobus Grimani of Venice resident in Crete,130 *,Cypriot white bezants
+173,1362-07-15,manumission,female,,Anna,,de Romania,,Marcus Mauroceno of Venice merchant in Famagusta,,,
+176,1362-07-21,sale,male,,Dimitrius,,Greek,,Marcus Fino of Venice procurator of Marco Querini of Venice resident of Crete,Marcus Mauroceno of Venice merchant in Famagusta,90,Cypriot white bezants
+181,1362-08-27,manumission,female,,Herini,,de Romania,,Nasimbenus de Canbonis of Ferrara resident in Famagusta,,,
+182,1362-09-02,sale,female,,Maria,,Tatar,,Marcus de Gallamano da Campofregoso,Simeon Iustiniano of Venice,,
